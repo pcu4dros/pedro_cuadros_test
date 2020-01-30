@@ -9,7 +9,6 @@ Overview
 
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
 
 .. |version| image:: https://img.shields.io/pypi/v/version-comparator.svg
     :alt: PyPI Package latest release
@@ -26,11 +25,6 @@ Overview
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/version-comparator.svg
     :alt: Supported implementations
     :target: https://pypi.org/project/version-comparator
-
-.. |commits-since| image:: https://img.shields.io/github/commits-since/pcu4dros/pedro_cuadros_test/python-version-comparator/v0.0.1.svg
-    :alt: Commits since latest release
-    :target: https://github.com/pcu4dros/pedro_cuadros_test/python-version-comparator/compare/v0.0.1...master
-
 
 
 .. end-badges
