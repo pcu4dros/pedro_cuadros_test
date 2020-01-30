@@ -9,7 +9,6 @@ Overview
 
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
 .. |version| image:: https://img.shields.io/pypi/v/distributed-lru-cache.svg
     :alt: PyPI Package latest release
     :target: https://pypi.org/project/distributed-lru-cache
@@ -25,10 +24,6 @@ Overview
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/distributed-lru-cache.svg
     :alt: Supported implementations
     :target: https://pypi.org/project/distributed-lru-cache
-
-.. |commits-since| image:: https://img.shields.io/github/commits-since/pcu4dros/pedro_cuadros_test/python-distributed-lru-cache/v0.0.1.svg
-    :alt: Commits since latest release
-    :target: https://github.com/pcu4dros/pedro_cuadros_test/python-distributed-lru-cache/compare/v0.0.1...master
 
 
 
