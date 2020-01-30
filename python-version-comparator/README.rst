@@ -69,9 +69,9 @@ Usage
 To use Distributed LRU Cache in a project::
 
 
-	import compare_versions
+	 from version_comparator import comparator
 
-        compare_versions('1.2.1', '1.2.1')
+         comparator.compare_versions('1.2.1', '1.2.1')
 
 
 Where::

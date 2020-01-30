@@ -152,7 +152,7 @@ Usage
 To use Distributed LRU Cache in a project::
 
 
-	import distributed_lru_cache
+	from distributed_lru_cache.cache import LRUCache
 
         lru = LRUCache(capacity=2, cache_name='lrucache', redis_host='localhost', redis_port=6379, redis_db=0, ttl=5)
 
